@@ -13,5 +13,5 @@ Requirements
   •	HTMLTestRunner
 
 Note:
-•	Since data submitted was not saving in the database, efficient validation cases could not be built for the provided API.
-•	I have built AspectDemo on windows platform. I didn’t have a resource(machine/VM) with a Linux platform hence couldn’t build project       compatible with both Windows and Linux.
+Since data submitted was not saving in the database, efficient validation cases could not be built for the provided API.
+I have built AspectDemo on windows platform. I didn’t have a resource(machine/VM) with a Linux platform hence couldn’t build project       compatible with both Windows and Linux.
