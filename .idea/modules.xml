@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AspectDemo.iml" filepath="$PROJECT_DIR$/.idea/AspectDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../aspect3/.idea/AspectDemo.iml" filepath="$PROJECT_DIR$/../aspect3/.idea/AspectDemo.iml" />
     </modules>
   </component>
 </project>
